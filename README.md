@@ -1,5 +1,5 @@
 # DevOps-Docker-nodejs
-DockerHub [repo](https://hub.docker.com/repository/docker/maksss/node-web-app)  
+DockerHub [repository](https://hub.docker.com/repository/docker/maksss/node-web-app)  
 Build an image:
 ```
 docker build . -t maksss/node-web-app
